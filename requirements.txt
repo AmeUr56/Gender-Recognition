@@ -1,0 +1,7 @@
+notebook
+ipykernel
+numpy
+pandas
+matplotlib
+tensorflow
+pillow
